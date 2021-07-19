@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatrickTDewey
 - 👀 I’m interested in web development, software development, & game development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web frameworks like django/react
+- 💞️ I’m looking to collaborate on full-stack projects using django/react
 - 📫 How to reach me patricktdewey@gmail.com
 
 <!---
