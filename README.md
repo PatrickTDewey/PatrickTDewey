@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickTDewey,
 - 👀 I’m interested in web development, software development, & game development.
-- ☕ I’m currently learning Java.
+- ☕ I’m currently working on React.
 - 💞️ I’m looking to collaborate on full-stack projects using JavaScript, Java, or Python.
 - 📫 How to reach me: ptd.dev@protonmail.com
 
