@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatrickTDewey,
 - 👀 I’m interested in Linux Operating Systems, specifically Arch, vim, & Web Dev.
-- ☕ I’m currently working on learning vim.
-- 💞️ I’m looking to collaborate on full-stack projects using JavaScript, Java, or Python.
+- ☕ I’m currently working on learning Svelte.
+- 💞️ I’m looking to collaborate on full-stack projects using JavaScript.
 - 📫 How to reach me: ptd.dev@protonmail.com
 
 <!---
